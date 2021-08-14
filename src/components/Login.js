@@ -34,7 +34,7 @@ const Login = () => {
       axiosWithAuth().post(`/login`, formValues)
         .then(res => {
           localStorage.setItem('token', res.data.payload)
-          push('/BubblePage')
+          push('/bubbles')
         })
         .catch(err => console.log(err))
     }
