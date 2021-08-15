@@ -62,7 +62,7 @@ Your finished project must include all of the following requirements. **Unlike o
 * [x] Watch and enjoy as your app responds to updates in the data. Check out `Bubbles.js` to see how this is built.
 
 #### Testing
-* [ ] Finish the test in `Color.test.js`, `ColorList.test.js`, `BubblePage.test.js`. You will need to use rerendering, function mocking and spies in order to complete.
+* [x] Finish the test in `Color.test.js`, `ColorList.test.js`, `BubblePage.test.js`. You will need to use rerendering, function mocking and spies in order to complete.
 
 **Notes:**
 * You are welcome to create additional files but **do not move or rename existing files** or folders.
